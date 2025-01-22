@@ -51,3 +51,5 @@ document.addEventListener('keydown', (event) => {
         lightbox.classList.remove('visible');
     }
 });
+
+
